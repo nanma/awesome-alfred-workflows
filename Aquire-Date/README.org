@@ -7,6 +7,9 @@
 #+BEGIN_EXAMPLE
 2014年12月27日 星期六
 #+END_EXAMPLE
+*** 作者
+- manan
+- https://github.com/nanma/awesome-alfred-workflows/tree/master/Aquire-Date
 *** 下载地址
 [[./Aquire Date.alfredworkflow]]
 
