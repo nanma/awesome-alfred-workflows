@@ -1,0 +1,6 @@
+* awesome-alfred-workflows
+
+This repository collects Alfred workflows from web and made by myself.
+
+* 中文介绍
+这里收集了我从网上收集的和自己开发的Alfred workflow。
