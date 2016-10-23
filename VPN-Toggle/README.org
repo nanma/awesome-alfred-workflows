@@ -1,0 +1,6 @@
+* 用于连接 VPN 的 workflow
+
+** 使用方法
+1. 参考 https://github.com/nanma/codesnip/tree/master/scripts/cisco-vpn 配置依赖项；
+2. 在 Alfred 中修改'Run script' 中的VPN 用户名、密码、VPN 地址。
+3. 激活命令：vpn start / vpn stop。
